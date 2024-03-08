@@ -2,7 +2,12 @@
 Learn the essentials of assembly x86 
 
 ## Book
-The book can be found on the [wiki](https://github.com/Kuvrot/Principles-of-Assembly-x86/wiki)
+The document can be found on the [wiki](https://github.com/Kuvrot/Principles-of-Assembly-x86/wiki)
+
+Or you can clone it with 
+```
+git clone https://github.com/Kuvrot/Principles-of-Assembly-x86.wiki.git
+``` 
 
 ## About
 
