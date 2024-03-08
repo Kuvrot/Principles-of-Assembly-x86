@@ -1,4 +1,4 @@
-# Principles-of-Assembly-x86
+# Principles of Assembly x86
 Learn the essentials of assembly x86 
 
 ## Book
