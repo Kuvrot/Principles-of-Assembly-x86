@@ -1,3 +1,5 @@
+;Printing hello world!
+
 section .data
     msg db "Hello world!" , 0xa
     len equ $- msg
