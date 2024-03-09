@@ -8,6 +8,10 @@ Or you can clone it with
 ```
 git clone https://github.com/Kuvrot/Principles-of-Assembly-x86.wiki.git
 ``` 
+The code can be cloned with
+```
+git clone https://github.com/Kuvrot/Principles-of-Assembly-x86.git
+```
 
 ## About
 
