@@ -45,7 +45,9 @@ _start:
     mov ecx , res
     mov edx , 0x1
     int 0x80
-    
+
+    ;Exit the program
+
     mov eax , 0x1
     xor ebx , ebx
     int 0x80
