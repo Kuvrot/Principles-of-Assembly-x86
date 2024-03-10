@@ -20,7 +20,7 @@ _start:
     mov [sum] , eax
     mov eax , [n1]
     sub eax , '0'
-    sub ebx , eax
+    sub eax , ebx
     add eax , '0'
     mov [res] , eax
     
